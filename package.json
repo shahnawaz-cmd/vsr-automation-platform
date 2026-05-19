@@ -1,0 +1,12 @@
+{
+  "name": "vsr-automation-platform",
+  "version": "1.0.0",
+  "description": "A modular, scalable automated testing platform designed for VSR operational validation and cross-module quality assurance.",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.11.3",
+    "@playwright/test": "^1.44.1"
+  }
+}
